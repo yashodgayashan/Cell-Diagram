@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.6.0"
+  name = "test_component_7"
+  org = "yashodperera"
+  version = "0.1.0"
+
