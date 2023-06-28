@@ -1,7 +1,7 @@
 import ballerina/http;
 
 # A service representing a network-accessible API gh hello
-# bound to port `9090`. ss
+# bound to port `9090`. sssss
 service / on new http:Listener(9090) {
 
     # A resource for generating greetings
